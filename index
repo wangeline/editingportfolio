@@ -1,0 +1,125 @@
+<html>
+<head> 
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap">
+
+<h1> ANGELINE WIBOWO </h1>
+  <h3 id = "subtext1"> My Video Editing Showcase</h3>
+<a href="https://www.instagram.com/angie_w.aep/"><img class = "instalink" src="https://i.postimg.cc/HLcjKT5Z/instagram-tag.png" alt="@angie_w.aep"></a>
+  <br>
+</head>
+
+<body>
+  <!--got your money-->
+  <a href="https://streamable.com/ngbcoh"><img class = "videos" src="https://i.postimg.cc/DzYby9qR/Screenshot-2025-08-06-at-3-15-08-PM.png" alt="edit #1, click me to watch!"></a> 
+  <!--stay with us-->
+  <a href="https://streamable.com/xrvbja">
+  <img class = "videos" src="https://i.postimg.cc/G3vJqpP2/Screenshot-2025-08-06-at-3-36-55-PM.png" alt="edit #2, click me to watch!"></a>
+  <!--all i need-->
+  <a href="https://streamable.com/yb5xwe">
+<img class = "videos" src="https://i.postimg.cc/hGJVx4PK/Screenshot-2025-08-06-at-3-39-31-PM.png" alt="edit #3, click me to watch!"></a>
+  <!--sunday-->
+  <a href="https://streamable.com/yb5xwe">
+<img class = "videos" src="https://i.postimg.cc/tTMfk4FD/Screenshot-2025-08-06-at-3-52-18-PM.png" alt="edit #4, click me to watch!"></a>
+  <!--i want some of your love-->
+  <a href="https://streamable.com/ysz85p">
+<img class = "videos" src="https://i.postimg.cc/2SxCwnyw/Screenshot-2025-08-06-at-3-54-04-PM.png" alt="edit #5, click me to watch!"></a>
+  <!--shut up-->
+  <a href="https://streamable.com/x4yivk">
+<img class = "videos" src="https://i.postimg.cc/jqGqdsBz/Screenshot-2025-08-06-at-3-53-17-PM.png" alt="edit #5, click me to watch!"></a>
+  <!--california girls-->
+  <a href="https://streamable.com/yc011n">
+<img class = "videos" src="https://i.postimg.cc/J7jvZMG3/Screenshot-2025-08-06-at-4-00-37-PM.png" alt="edit #5, click me to watch!"></a>
+  <!--worst of you-->
+  <a href="https://streamable.com/zcs7gv">
+<img class = "videos" src="https://i.postimg.cc/rpdYmLBr/Screenshot-2025-08-06-at-4-01-33-PM.png" alt="edit #5, click me to watch!"></a>
+  <!--topline-->
+  <a href="https://streamable.com/05egen">
+<img class = "videos" src="https://i.postimg.cc/pTbkL5Qw/Screenshot-2025-08-06-at-4-06-05-PM.png" alt="edit #5, click me to watch!"></a>
+ 
+</body>
+
+<footer>
+  <hr>
+  <h3 id = "subtext2">During the Covid-19 lockdown, I began learning how to video edit. I learned the basics of editing in the Video Star mobile app. After a few months, I downloaded the Adobe After Effects Program and began learning, using Youtube as my main teaching source. I began an instagram account dedicated to my editing creations on November 23, 2020. Since then, I have continued to create edits dedicated to social media influencers. </h3>
+</footer>
+</html>
+
+
+<style>
+body {
+  background-color: #EFEBCE;
+}
+
+h1 {
+  margin-top: 10%;
+  margin-bottom: 0;
+  padding: 0;
+  text-align: center;
+  color: #A4A482;
+  font-family: Quicksand;
+  font-size: 500%;
+}
+
+#subtext1 {
+  margin-top: 30px;
+  margin-bottom: 0;
+  text-align: center;
+  color: #BC8389;
+  font-family: Quicksand;
+  font-size: 200%;
+}
+#subtext2 {
+  margin-left:8%;
+  margin-right: 8%;
+  font-size: 109%;
+  line-height: 180%;
+  text-align: center;
+  color: #BC8389;
+  font-family: Quicksand;
+}
+
+@keyframes slide {
+  0% {
+    opacity: 0.5;
+    transform: translateX(-500px)
+  } 100% {
+    opacity: 1;
+    transform: translateX(0px)
+  }
+}
+
+.videos {
+  height: 500px;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top: 50px;
+  cursor: pointer;
+  animation: slide 3s ease;
+}
+
+.instauser {
+  text-align: center;
+  color: #727272;
+  font-family: Quicksand;
+  display: inline-block;
+  vertical-align: top;
+}
+
+.instalink {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 10px;
+  height: 90px;
+  cursor: pointer;
+}
+
+hr {
+  
+  margin-left: 8em;
+  margin-right: 8em;
+  margin-top: 5em;
+  margin-bottom: 5em;
+  border: 2px solid #A4A482;
+}
+</style>
